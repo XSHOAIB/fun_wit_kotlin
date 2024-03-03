@@ -11,5 +11,9 @@ fun main(){
   val myText: String = "Hello"      // String
   val myNu: Byte = 100
   val myn: Short = 5000
+
+  // To convert a numeric data type to another type, you must use one of the following functions: toByte(), toShort(), toInt(), toLong(), toFloat(), toDouble() or toChar():
+  val x: Int = 5
+  val y: Long = x.toLong()
   
 }
