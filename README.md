@@ -6,3 +6,10 @@ Kotlin uses two different keywords to declare variables: val and var . Use val f
 
 
 DATA TYPES
+Data types are divided into different groups:
+
+Numbers
+Characters
+Booleans
+Strings
+Arrays
